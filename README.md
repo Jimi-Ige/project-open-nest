@@ -27,7 +27,7 @@ Check our **[Contribution Guide](CONTRIBUTING.md)** for details.
 ## 📚 Documentation & Roadmap
 - 📖 **[Project Roadmap](docs/roadmap.md)**
 - 🔍 **[Technical Docs](docs/architecture.md)**
-- 📜 **[Ethical AI Principles](docs/Ethical AI Principles.md)**
+- 📜 **[Ethical AI Principles](Ethical AI Principles.md)**
 
 ---
 
