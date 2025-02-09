@@ -72,12 +72,4 @@ This document outlines the **core ethical principles** guiding Open Nest's AI de
   - **Community input on AI improvements and policies**.
 
 ---
-
-## 🚀 **Next Steps**
-We welcome community input to refine and improve these principles. If you have suggestions:
-1. **Submit a GitHub Issue**: [GitHub Issues](https://github.com/YOUR-REPO/issues)
-2. **Join the Discussion** on GitHub: [Ethics & Policy Discussion](https://github.com/YOUR-REPO/discussions)
-3. **Contact Us** on Slack: [Slack Community Invite](#)
-
----
 📢 **Project Open Nest is committed to ethical AI for social impact.** Let's build responsibly. 🚀  
