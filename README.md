@@ -11,7 +11,7 @@ We welcome **technical and non-technical contributors**.
 - 🔐 **Privacy & Security Experts**: Ensure the model aligns with HIPAA, GDPR, and AI safety standards.
 - 🏛 **Donors & Sponsors**: Fund an AI-driven social impact initiative.
 
-📢 Join us on **Slack** → [Invite Link Here]
+📢 Join us on **Discord** → [[Invite Link Here]](https://discord.com/invite/9vfjCa8Usj)
 
 ---
 
